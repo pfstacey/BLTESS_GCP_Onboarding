@@ -6,6 +6,7 @@ Welcome to Breakthrough Listen's Virtual Sandbox where you now have access to 60
 
 ### Best,
 ### Piper Stacey
+#### July 21st, 2020
 
 Summer Intern for Breakthrough Listen's Berkeley SETI Research Center 2020
 
