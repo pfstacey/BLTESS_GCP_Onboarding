@@ -16,5 +16,5 @@ Welcome to Breakthrough Listen's Virtual Sandbox where you now have access to 60
 ##### Summer Intern for Breakthrough Listen's Berkeley SETI Research Center 2020
 ##### July 21st, 2020
 
-######## P.S. 
-######## I hope the world is looking better than it is right now. I hope the world found a COVID-19 vaccine.
+####### P.S. 
+####### I hope the world is looking better than it is right now. I hope the world found a COVID-19 vaccine.
